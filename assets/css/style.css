@@ -1,0 +1,16 @@
+.nav {
+    height: 15em;
+    width: auto;
+    background-color: #f7dcc8;
+    font-family: 'Noto Serif', serif;
+}
+
+.nav-link {
+    color: white;
+    padding-top: 2em;
+}
+
+.nav-link:hover {
+    color: white;
+    text-decoration: underline;
+}
