@@ -14,3 +14,26 @@
     color: white;
     text-decoration: underline;
 }
+
+/* Rectangle card */
+
+.rectangle {
+    height: 400px;
+    width: 800px;
+    background-color: #faeade;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid white;
+}
+
+/* Footer */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #faeade;
+    color: black;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
