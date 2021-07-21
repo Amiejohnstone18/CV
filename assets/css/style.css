@@ -26,9 +26,30 @@
     border: 4px solid white;
 }
 
+#challenge {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.intro-text {
+    font-family: 'Noto Serif', serif;
+}
+
+/* Circles */
+
+
+hr {
+    border: 1px solid #f7dcc8;
+    
+}
+
+.testimonials {
+    font-family: 'Noto Serif', serif;
+}
+
 /* Footer */
 footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
