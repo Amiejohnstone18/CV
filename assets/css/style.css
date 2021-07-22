@@ -121,6 +121,13 @@ footer {
     margin-top: 25px;
 }
 
+
+/* Education */
+#education {
+    font-family: 'Noto Serif', serif;
+    margin-top: 14em;
+}
+
 #footer-text {
     padding-top: 1.5em;
 }
