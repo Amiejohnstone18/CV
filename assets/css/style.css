@@ -20,7 +20,20 @@
 .bar {
     width: auto;
     background-color: #f7dcc8;
-    height: 10em;
+    height: 12.5em;
+}
+
+.cv-download {
+    text-align: right;
+    padding-right: 15px;
+    color: black;
+    font-family: 'Noto Serif', serif;
+    font-size: 15px;
+}
+
+.cv-download:hover {
+    text-decoration: underline;
+    color: black;
 }
 
 .rectangle {
