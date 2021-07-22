@@ -113,17 +113,27 @@ hr {
     margin-top: 14em;
 }
 
+/* projects */
+.projects {
+    margin-top: 25px;
+}
+
+
 /* Personal Interests */
-.art {
-    max-width: 250px;
-    max-height: 250px;
+.img-thumbnail {
+    max-height: 300px;
+    object-fit: cover;
+    min-height: 10em;
 }
 
 .square {
-    height: 50px;
-    width: 50px;
-    background-color: #555;
-  }
+    min-width: 200px;
+    min-height: 200px;
+}
+
+#art {
+ color: #faeade;
+}
 
 /* Footer */
 footer {
