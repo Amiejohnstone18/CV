@@ -107,6 +107,38 @@ hr {
     font-family: 'Noto Serif', serif;
 }
 
+/* Professional History and Education Headings and Logo */
+
+.logos {
+    width: 30px;
+    height: 30px;
+}
+
+.btn-link{
+    color: black;
+}
+
+.btn-link:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.card {
+    background-color: white;
+    border: solid 1px white;
+}
+
+.card-header {
+    background-color: #faeade;
+    border: solid 1px #f7dcc8;
+}
+
+.card-body {
+    background-color: white;
+    border: solid 1px #f7dcc8;
+}
+
+
 /* Education */
 .page-titles {
     font-family: 'Noto Serif', serif;
