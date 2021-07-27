@@ -110,22 +110,25 @@ hr {
 /* Professional History and Education Headings and Logo */
 
 .logos {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
 }
 
-.btn-link{
+/* Dropdown Titles */
+
+.btn-link {
     color: black;
 }
 
-.btn-link:hover{
-    text-decoration: none;
+.btn-link:hover {
+    text-decoration: none !important;
     color: black;
 }
 
 .card {
     background-color: white;
     border: solid 1px white;
+    font-family: 'Noto Serif', serif;
 }
 
 .card-header {
