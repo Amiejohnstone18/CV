@@ -149,16 +149,54 @@ hr {
 }
 
 /* Personal Interests */
-.art {
-    max-width: 250px;
-    max-height: 250px;
+.grid-img {
+    width: 100px;
+    height: 100px;
 }
 
-.square {
-    height: 50px;
-    width: 50px;
-    background-color: #555;
+.flex-center {
+    display: flex;
+    justify-content: center;
   }
+
+
+.grid-text-1 {
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    background-color: #faeade;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-text-2 {
+    background-color: #fcf4ee;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.grid-text-3 {
+    background-color: #faeade;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.grid-text-4 {
+    background-color: #fcf4ee;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.grid-text-5 {
+    background-color: #f7dfcd;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.grid-text-6 {
+    background-color: #f8e3d3;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
 
 /* Footer */
 footer {
