@@ -82,7 +82,7 @@
 #challenge {
     font-family: 'Noto Serif', serif;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 5px;
 }
 
 .intro-text {
@@ -148,8 +148,19 @@ hr {
     margin-top: 14em;
 }
 
+/* Projects */
+.card-img-top-1 {
+    max-height: 290px;
+    object-fit: cover;
+}
+
+.intro-sentence {
+    font-family: 'Noto Serif', serif;
+}
+
+
 /* Personal Interests */
-.card {
+.card-interests {
     overflow: hidden;
     padding: 10px, 20px, 20px, 20px;
     display: block;
@@ -162,6 +173,10 @@ hr {
       object-fit: cover;
   }
 
+  .card-text {
+      text-align: center;
+      font-family: 'Noto Serif', serif;
+  }
 
 
 /* Footer */
