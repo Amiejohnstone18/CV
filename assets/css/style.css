@@ -148,6 +148,10 @@ hr {
     margin-top: 14em;
 }
 
+.page-text {
+    font-family: 'Noto Serif', serif;
+}
+
 /* Projects */
 .card-img-top-1 {
     max-height: 290px;
