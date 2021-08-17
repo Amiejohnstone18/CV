@@ -1,104 +1,188 @@
-.s![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Readme-hero](documents/images/readme-hero.png)
 
-Welcome Amie Johnstone,
+# Personal Introduction
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. The last update to this file was: **July 2, 2021**
+I am an ambitious and hardworking individual with a passion for all things digital. Having recently completed a course in Full Stack Web Development and exploring all aspects involved, and with my professional background experience in digital Marketing and Communications, I am looking to pursue a career in UX/UI Design. I have a keen eye for detail and excellent communication skills when either working within a team or liaising with clients. I have an independent ability to handle tasks with a methodical approach and ensure projects are completed to the highest standard and in the required time frame. For any knowledge I may initially lack, I make up for in ensuring to learn fast and with complete understanding.
 
-## Gitpod Reminders
+# Education
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+| Code Institute | 2020 - 2021 |
+| --- | --- |
+| Diploma in Software Development |
+| 2:1 - Second Class Honours |
 
-A blue button should appear to click: _Make Public_,
+After graduating University, I started Digital Marketing roles working closely with external Web 
+Developers and took great interest in the different coding languages, along with the initial process from UX/UI design to website production. Realising this was a keen interest of mine, I enrolled into a Full Stack Web Development Diploma course at [Code Institute](https://codeinstitute.net).  They are the UK's only credit- rated coding bootcamp, credited by University of the West of Scotland (USW). The course took a year to complete and enabled me to develop skills in main coding languages HMTL, CSS, JavaScript, Python and Django. 
 
-Another blue button should appear to click: _Open Browser_.
+Along with main coding languages, the course also expanded on frameworks such as Bootstrap and Materialize, Application Program Interfaces (API's), jQuery, database programs such as MongoDB 
+Atlas and relational database MySQL, deployment through GitHub pages (switching to PostgreSQL where applicable) and Heroku, Stripe payment system and Amazon Web Services. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+I completed four milestone projects with Code Institute which were all built through GitHub using 
+Gitpod. I used version control through Git to modify the repositories to produce a step by step log
+during development. Before starting the milestone development, I started with UX design by mapping out the 5 planes method of user experience and essentially created a business plan of customer and company objectives and requirements. I created wireframes for each project through using either 
+Adobe Creative Suit programs or Balsamiq which assisted in the website development structure. 
 
-A blue button should appear to click: _Make Public_,
+Modules studied in this course:
+* HTML Fundamentals
+* CSS Fundamentals
+* User-Centric Frontend Development
+* JavaScript Fundamentals
+* Interactive Frontend Development
 
-Another blue button should appear to click: _Open Browser_.
+[GitHub profile](https://github.com/Amiejohnstone18)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+| Canterbury Christ Church University	 | 2014 - 2017 |
+| --- | --- |
+| Bachelor of Arts in Media and Communications |
+| 2:1 - Second Class Honours |
 
-To log into the Heroku toolbelt CLI:
+First Year Modules:
+* Research Skills
+* Contemporary Media Debates
+* Making Media, Meaning & Messages
+* Media Consumption
+* Introduction to Professional Communications
+* Digital Media Practice
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Second Year Modules:
+* Popular Genres
+* Media & Creative Industries
+* Celebrity, News & The Media
+* Writing for Media Communications
+* Media & Society
+* Creative Media & Communications Practice
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Third Year Modules:
+* Individual Research Project (Dissertation)
+* Advertising Practices
+* Youth Cultures
+* Media Features
+* Multi-Media Practice
 
-------
+Experienced in:
+* InDesign
+* Photoshop
+* Illustrator
+* Premiere Pro / After Effects
 
-## Release History
+| Collingwood College Sixth Form	 | 2012 - 2014 |
+| --- | --- |
+| 3 A*- C A-Levels |
+* Media
+* Communications & Culture
+* Drama
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+| Collingwood College Sixth Form	 | 2007 - 2012 |
+| --- | --- |
+| 5+ A* - C GCSE's |
+| Including Maths and English |
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+# Professional History 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+| The Glass Office People, Berkshire | April 2019 - Present|
+| --- | --- |
+| Marketing Communications Manager  |
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+* Defining and managing the brand- ensuring any external material is subject to company brand guidelines. 
+* Management of all social media platforms Instagram, Twitter, Facebook, and LinkedIn, including paid social media marketing campaigns. 
+* Manage Trustpilot Business and monitor reviews. 
+* Produce Email Marketing -whilst also keeping track of GDPR regulations and updating a client database accordingly. 
+* Management of all external marketing and advertising communications, e.g. Online magazine editorials, radio advertisement, banner advertising, traditional print marketing.
+* Worked alongside external Web Developers to implement any changes required on the website, along with using the Customer Management System (CMS) to update and produce new pages when necessary.
+* Managed the relationship and budget with the external Google advertising agency, particularly focusing on Pay Per Click (PPC) and remarketing. 
+* Design of any marketing or advertising material/ campaigns.
+* Working with a marketing budget and evolving on strategies to produce traffic results. 
+* Produce monthly reports with Google analytics, comparing all paid advertising channels. 
+* Keep up to date with alike companies to ensure we are offering a competitive product.
+* Pay attention to latest trends and styles to incorporate where possible. 
+* Design and produce all marketing and promotional materials.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+| Panarc Interior Solutions, Berkshire  | April 2019 - Present|
+| --- | --- |
+| Marketing Communications Manager  |
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Panarc interior solutions is the sister company of The Glass Office People. I had initially joined on a temp basis as an Accounts Assistant after coming back from Australia. With both companies wanting to advance on their  marketing and advertising, I stayed to develop on these, therefore, roles and responsibilities for both are the same. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+| Panarc Interior Solutions, Berkshire  | March 2019 - Present |
+| --- | --- |
+| Accounts Assistant   |
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+* Process incoming invoices and credit notes from suppliers into the integrity system Evolution M (Mardak).
+* Checking supplier statements are up  to date with invoices and payments.
+* Manage employee credit card statements.
+* Process fortnightly Subcontractor invoices to be raised for payment and send out payment certificate receipts to the Subcontractors.
+* Manage company vehicles.
+* Book out and keep track of employee holidays.
+* Arrange for employee training as and when necessary.
+* Create new job contracts on Mardak with the relevant information.
+* Archive expired job contracts/ account admin.
+* Handle purchasing of office equipment.
+* Create purchase orders for ordering site materials.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+| Sanctuary Recruitment, Sydney, Australia            | June 2018 - March 2019 |
+| --- | --- |
+| Office Communications Manager (6- Month Contract)   |
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+| IT Talent, Reading                                  | October 2017 - April 2018 |
+| --- | --- |
+| Communications Manager (6- Month Contract)   |
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
+| Kurt Geiger, Canterbury	                          | January 2015 - July 2017 |
+| --- | --- |
+| Sales Assistant - Part time (Student Study)   |
 
-## FAQ about the uptime script
+| Next, Camberley 	   | July 2013 - July 2014 |
+| --- | --- |
+| Sales Assistant - Part time (Student Study)   |
 
-**Why have you added this script?**
+### References are available upon request. 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+# Projects 
 
-**How will this affect me?**
+All projects were completed during the Code Institute course as Module Exams.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+### Milestone 1 - [HIIT Fitness](https://amiejohnstone18.github.io/HIIT_Fitness/index.html)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+![Readme-hero](documents/images/hiit-fitness.png)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+Built using main technologies HTML5 and CSS. The requirements for this project was to build a static website advertising a service or product for a company. I chose to build a gym website offering information on the class timetable, meet the PT team, where to sign up and how to contact the gym.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+### Milestone 2 - [Happy Hour](https://amiejohnstone18.github.io/Happy-Hour/index.html)
 
-**Can I opt out?**
+![Readme-hero](documents/images/happy-hour.png)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Happy Hour was built using main technologies HTML5, CSS and JavaScript. The purpose for this project was to build a website, incorporating an API. After much research, I found a cocktail API and decide to create a website whereby a user can select a cocktail and be provided with its name, ingredients, rating, and an image.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+### Milestone 3 - [The Baking Book](https://the-baking-book.herokuapp.com/index)
 
-**Anything more?**
+![Readme-hero](documents/images/baking-book.png)
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+The Baking Book was built using main technologies HTML5, CSS, JavaScript, and Python. The 
+requirements for this project was to use CRUD functionality (Create, Read, Update, Delete) to give the user the ability to create a new receipt card, read it, update it and also delete it. It is accessible for anyone to use CRUD on the website therefore recipe cards do regularly get deleted.
 
----
+### Milestone 4 - [Willow Flowers](https://willow-flowers.herokuapp.com/)
 
-Happy coding!
+![Readme-hero](documents/images/willow-flowers.png)
+
+Willow Flowers was the 4th and final milestone project. This was built using main technologies HTML5, CSS, JavaScript, Python and Django. The purpose of this project was to ensure users were able to sign up and login to personal accounts and access their saved data and purchase products. Also, the website owner was able to use CRUD to update the website with products when necessary.
+
+
+# Personal Interests
+
+:art: Art & Design
+
+:airplane: Travel
+
+:doughnut: Food
+
+:cherry_blossom: Nature
+
+:leopard: Animals 
+
+:bicyclist: Fitness 
