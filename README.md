@@ -7,10 +7,10 @@ I am an ambitious and hardworking individual with a passion for all things digit
 # Education
 
 
-| Code Institute | 2020 - 2021 |
-| --- | --- |
-| Diploma in Software Development |
-| 2:1 - Second Class Honours |
+### Code Institute - 2020 - 2021
+Diploma in Software Development
+
+2:1 - Second Class Honours
 
 After graduating University, I started Digital Marketing roles working closely with external Web 
 Developers and took great interest in the different coding languages, along with the initial process from UX/UI design to website production. Realising this was a keen interest of mine, I enrolled into a Full Stack Web Development Diploma course at [Code Institute](https://codeinstitute.net).  They are the UK's only credit- rated coding bootcamp, credited by University of the West of Scotland (USW). The course took a year to complete and enabled me to develop skills in main coding languages HMTL, CSS, JavaScript, Python and Django. 
@@ -32,10 +32,12 @@ Modules studied in this course:
 
 [GitHub profile](https://github.com/Amiejohnstone18)
 
-| Canterbury Christ Church University	 | 2014 - 2017 |
-| --- | --- |
-| Bachelor of Arts in Media and Communications |
-| 2:1 - Second Class Honours |
+------
+
+### Canterbury Christ Church University - 2014 - 2017 
+Bachelor of Arts in Media and Communications 
+
+2:1 - Second Class Honours 
 
 First Year Modules:
 * Research Skills
@@ -66,24 +68,27 @@ Experienced in:
 * Illustrator
 * Premiere Pro / After Effects
 
-| Collingwood College Sixth Form	 | 2012 - 2014 |
-| --- | --- |
-| 3 A*- C A-Levels |
+------
+
+### Collingwood College Sixth Form - 2012 - 2014
+
+3 A*- C A-Levels
 * Media
 * Communications & Culture
 * Drama
 
-| Collingwood College Sixth Form	 | 2007 - 2012 |
-| --- | --- |
-| 5+ A* - C GCSE's |
-| Including Maths and English |
+------
+
+### Collingwood College Sixth Form - 2007 - 2012
+
+5+ A* - C GCSE's
+ * Including Maths and English
 
 
 # Professional History 
 
-| The Glass Office People, Berkshire | April 2019 - Present|
-| --- | --- |
-| Marketing Communications Manager  |
+### The Glass Office People, Berkshire - April 2019 - Present
+Marketing Communications Manager
 
 * Defining and managing the brand- ensuring any external material is subject to company brand guidelines. 
 * Management of all social media platforms Instagram, Twitter, Facebook, and LinkedIn, including paid social media marketing campaigns. 
@@ -99,16 +104,14 @@ Experienced in:
 * Pay attention to latest trends and styles to incorporate where possible. 
 * Design and produce all marketing and promotional materials.
 
+------
 
-| Panarc Interior Solutions, Berkshire  | April 2019 - Present|
-| --- | --- |
-| Marketing Communications Manager  |
+### Panarc Interior Solutions, Berkshire - April 2019 - Present
+Marketing Communications Manager
 
 Panarc interior solutions is the sister company of The Glass Office People. I had initially joined on a temp basis as an Accounts Assistant after coming back from Australia. With both companies wanting to advance on their  marketing and advertising, I stayed to develop on these, therefore, roles and responsibilities for both are the same. 
 
-| Panarc Interior Solutions, Berkshire  | March 2019 - Present |
-| --- | --- |
-| Accounts Assistant   |
+ Accounts Assistant - March 2019 - Present
 
 * Process incoming invoices and credit notes from suppliers into the integrity system Evolution M (Mardak).
 * Checking supplier statements are up  to date with invoices and payments.
@@ -122,46 +125,52 @@ Panarc interior solutions is the sister company of The Glass Office People. I ha
 * Handle purchasing of office equipment.
 * Create purchase orders for ordering site materials.
 
-| Sanctuary Recruitment, Sydney, Australia            | June 2018 - March 2019 |
-| --- | --- |
-| Office Communications Manager (6- Month Contract)   |
+------
 
+### Sanctuary Recruitment, Sydney, Australia - June 2018 - March 2019
+Office Communications Manager (6- Month Contract)
 
-| IT Talent, Reading                                  | October 2017 - April 2018 |
-| --- | --- |
-| Communications Manager (6- Month Contract)   |
+------
 
+### IT Talent, Reading - October 2017 - April 2018
+Communications Manager (6- Month Contract)  
 
-| Kurt Geiger, Canterbury	                          | January 2015 - July 2017 |
-| --- | --- |
-| Sales Assistant - Part time (Student Study)   |
+------
 
-| Next, Camberley 	   | July 2013 - July 2014 |
-| --- | --- |
-| Sales Assistant - Part time (Student Study)   |
+### Kurt Geiger, Canterbury - January 2015 - July 2017 
+Sales Assistant - Part time (Student Study)
 
-### References are available upon request. 
+------
+
+### Next, Camberley - July 2013 - July 2014
+Sales Assistant - Part time (Student Study) 
+
+------
+
+:white_check_mark: References are available upon request. 
 
 # Projects 
 
-All projects were completed during the Code Institute course as Module Exams.
+All projects were completed during the Code Institute course as Module Exams.  Wireframes for each can be found in the Respository and README . md files.
 
 ### Milestone 1 - [HIIT Fitness](https://amiejohnstone18.github.io/HIIT_Fitness/index.html)
 
 ![Readme-hero](documents/images/hiit-fitness.png)
-
+[Repository and README.md](https://github.com/Amiejohnstone18/HIIT_Fitness)
 
 Built using main technologies HTML5 and CSS. The requirements for this project was to build a static website advertising a service or product for a company. I chose to build a gym website offering information on the class timetable, meet the PT team, where to sign up and how to contact the gym.
 
 ### Milestone 2 - [Happy Hour](https://amiejohnstone18.github.io/Happy-Hour/index.html)
 
 ![Readme-hero](documents/images/happy-hour.png)
+[Repository and README.md](https://github.com/Amiejohnstone18/Happy-Hour)
 
 Happy Hour was built using main technologies HTML5, CSS and JavaScript. The purpose for this project was to build a website, incorporating an API. After much research, I found a cocktail API and decide to create a website whereby a user can select a cocktail and be provided with its name, ingredients, rating, and an image.
 
 ### Milestone 3 - [The Baking Book](https://the-baking-book.herokuapp.com/index)
 
 ![Readme-hero](documents/images/baking-book.png)
+[Repository and README.md](https://github.com/Amiejohnstone18/The_Baking_Book)
 
 The Baking Book was built using main technologies HTML5, CSS, JavaScript, and Python. The 
 requirements for this project was to use CRUD functionality (Create, Read, Update, Delete) to give the user the ability to create a new receipt card, read it, update it and also delete it. It is accessible for anyone to use CRUD on the website therefore recipe cards do regularly get deleted.
@@ -169,6 +178,7 @@ requirements for this project was to use CRUD functionality (Create, Read, Updat
 ### Milestone 4 - [Willow Flowers](https://willow-flowers.herokuapp.com/)
 
 ![Readme-hero](documents/images/willow-flowers.png)
+[Repository and README.md](https://github.com/Amiejohnstone18/willow_flowers)
 
 Willow Flowers was the 4th and final milestone project. This was built using main technologies HTML5, CSS, JavaScript, Python and Django. The purpose of this project was to ensure users were able to sign up and login to personal accounts and access their saved data and purchase products. Also, the website owner was able to use CRUD to update the website with products when necessary.
 
@@ -186,3 +196,6 @@ Willow Flowers was the 4th and final milestone project. This was built using mai
 :leopard: Animals 
 
 :bicyclist: Fitness 
+
+------
+A PDF version of my CV can be downloaded [here](documents/cv/cv-document.pdf).
