@@ -31,28 +31,6 @@
   .topnav .icon {
     display: none;
   }
-  
-  @media screen and (max-width: 786px) {
-    .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-      float: right;
-      display: block;
-    }
-  }
-  
-  @media screen and (max-width: 786px) {
-    .topnav.responsive {position: relative;}
-    .topnav.responsive .icon {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-  }
 
 /* Rectangle card */
 .bar {
@@ -117,32 +95,6 @@
     text-decoration: underline;
 }
 
-@media screen and (max-width: 576px) {
-    .rectangle {
-        height: 650px;
-        width: auto;
-    }
-
-    .personal-pic {
-        width: 250px;
-        height: 250px;
-        margin-left: 60px;
-    }
-
-    .name {
-        font-size: 18px;
-    }
-
-    .details {
-        padding-left: 40px;
-    }
-
-    .intro-box {
-        margin-top: 15em;
-    }
-}
-
-
 /* Intro Text */
 #challenge {
     font-family: 'Noto Serif', serif;
@@ -156,7 +108,6 @@
 }
 
 /* Circles */
-
 .skills-img {
     height: 400px;
     width: 400px;
@@ -173,14 +124,12 @@ hr {
 }
 
 /* Professional History and Education Headings and Logo */
-
 .logos {
     width: 40px;
     height: 40px;
 }
 
 /* Dropdown Titles */
-
 .btn-link {
     color: black;
 }
@@ -206,7 +155,6 @@ hr {
     border: solid 1px #f7dcc8;
 }
 
-
 /* Education */
 .page-titles {
     font-family: 'Noto Serif', serif;
@@ -227,7 +175,6 @@ hr {
     font-family: 'Noto Serif', serif;
 }
 
-
 /* Personal Interests */
 .card-interests {
     overflow: hidden;
@@ -247,7 +194,6 @@ hr {
       font-family: 'Noto Serif', serif;
   }
 
-
 /* Footer */
 footer {
     position: relative;
@@ -266,3 +212,59 @@ footer {
     padding-top: 1.5em;
 }
 
+/* Media Queries */
+@media screen and (max-width: 786px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 786px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+
+@media screen and (max-width: 576px) {
+    .rectangle {
+        height: 650px;
+        width: auto;
+    }
+
+    .personal-pic {
+        width: 250px;
+        height: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .name {
+        font-size: 18px;
+    }
+
+    .details {
+        padding-left: 40px;
+    }
+
+    .intro-box {
+        margin-top: 15em;
+    }
+
+    .intro-box-1 {
+        margin-top: 30em;
+    }
+
+    .logos {
+        margin-left: -20px;
+    }
+}
