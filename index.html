@@ -3,36 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
     <title>Amie Johnstone - CV</title>
 </head>
 <body>
 
-  <!-- Nav Menu -->
-  <ul class="nav justify-content-center">
-    <li class="nav-item">
-      <a class="nav-link active" href="index.html">ABOUT</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="education.html">EDUCATION</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="professional-history.html">PROFESSIONAL HISTORY</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="projects.html">PROJECTS</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="personal-interests.html">PERSONAL INTERESTS</a>
-      </li>
-  </ul>
+<!-- Nav Menu -->
+<div class="topnav" id="myTopnav">
+  <a href="index.html" class="active">ABOUT</a>
+  <a href="education.html">EDUCATION</a>
+  <a href="professional-history.html">PROFESSIONAL HISTORY</a>
+  <a href="projects.html">PROJECTS</a>
+  <a href="personal-interests.html">PERSONAL INTERESTS</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 
   <!-- Information Card -->
   <div class="container-fluid bar">
@@ -95,5 +89,15 @@
     <footer>
         <p id="footer-text">© 2021 Amie Johnstone</p> 
       </footer>
-</body>
+      <script>
+        function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+          } else {
+            x.className = "topnav";
+          }
+        }
+        </script>
+    </body>
 </html>
