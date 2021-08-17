@@ -1,4 +1,4 @@
-/* Burger Nav */
+/* Nav */
 .topnav {
     overflow: hidden;
     background-color: #f7dcc8;
@@ -32,7 +32,7 @@
     display: none;
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 786px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
       float: right;
@@ -40,7 +40,7 @@
     }
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 786px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
@@ -55,7 +55,6 @@
   }
 
 /* Rectangle card */
-
 .bar {
     width: auto;
     background-color: #f7dcc8;
@@ -117,6 +116,32 @@
     color: black;
     text-decoration: underline;
 }
+
+@media screen and (max-width: 576px) {
+    .rectangle {
+        height: 650px;
+        width: auto;
+    }
+
+    .personal-pic {
+        width: 250px;
+        height: 250px;
+        margin-left: 60px;
+    }
+
+    .name {
+        font-size: 18px;
+    }
+
+    .details {
+        padding-left: 40px;
+    }
+
+    .intro-box {
+        margin-top: 15em;
+    }
+}
+
 
 /* Intro Text */
 #challenge {
