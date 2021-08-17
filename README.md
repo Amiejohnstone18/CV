@@ -1,10 +1,14 @@
 ![Readme-hero](documents/images/readme-hero.png)
 
-# Personal Introduction
+:desktop_computer: [Website CV](https://amiejohnstone18.github.io/CV/index.html)
+
+:file_folder: [PDF CV](documents/cv/cv-document.pdf)
+
+# :woman: Personal Introduction
 
 I am an ambitious and hardworking individual with a passion for all things digital. Having recently completed a course in Full Stack Web Development and exploring all aspects involved, and with my professional background experience in digital Marketing and Communications, I am looking to pursue a career in UX/UI Design. I have a keen eye for detail and excellent communication skills when either working within a team or liaising with clients. I have an independent ability to handle tasks with a methodical approach and ensure projects are completed to the highest standard and in the required time frame. For any knowledge I may initially lack, I make up for in ensuring to learn fast and with complete understanding.
 
-# Education
+# :notebook: Education
 
 
 ### Code Institute - 2020 - 2021
@@ -85,7 +89,7 @@ Experienced in:
  * Including Maths and English
 
 
-# Professional History 
+# :briefcase: Professional History 
 
 ### The Glass Office People, Berkshire - April 2019 - Present
 Marketing Communications Manager
@@ -149,7 +153,7 @@ Sales Assistant - Part time (Student Study)
 
 :white_check_mark: References are available upon request. 
 
-# Projects 
+# :art: Projects 
 
 All projects were completed during the Code Institute course as Module Exams.  Wireframes for each can be found in the Respository and README . md files.
 
@@ -183,7 +187,7 @@ requirements for this project was to use CRUD functionality (Create, Read, Updat
 Willow Flowers was the 4th and final milestone project. This was built using main technologies HTML5, CSS, JavaScript, Python and Django. The purpose of this project was to ensure users were able to sign up and login to personal accounts and access their saved data and purchase products. Also, the website owner was able to use CRUD to update the website with products when necessary.
 
 
-# Personal Interests
+# :+1: Personal Interests
 
 :art: Art & Design
 
@@ -197,5 +201,3 @@ Willow Flowers was the 4th and final milestone project. This was built using mai
 
 :bicyclist: Fitness 
 
-------
-A PDF version of my CV can be downloaded [here](documents/cv/cv-document.pdf).
